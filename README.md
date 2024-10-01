@@ -1,4 +1,4 @@
-![fotograf](https://github.com/user-attachments/assets/30bd7916-1101-417d-9c9e-20c5e8fd1459)
+![fotograf](https://github.com/user-attachments/assets/701e561d-f3ef-424e-8387-300d9780026e)
 ![](https://komarev.com/ghpvc/?username=Komekselus&color=blue)
 <h1 align="center">Hi 👋, I'm Kadir Gümüşbaş</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
