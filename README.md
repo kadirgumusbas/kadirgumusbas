@@ -6,8 +6,10 @@
  </a>
 </div>
 <h3 align="center">A passionate Junior Developer from Türkiye</h3>
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
-- 🔭 I’m currently working on **Kotlin** 
+<img src="https://github.com/user-attachments/assets/adcbe4b9-b72d-4054-bc8f-13296be30941" alt="Coding" width=200 height=200 align="right">
+
+- 🔭 I’m currently working on **Kotlin**
+ 
 - 📫 How to reach me **akadirgumusbas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +18,8 @@
 <a href="https://instagram.com/kadirgumusbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kadirgumusbas" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
