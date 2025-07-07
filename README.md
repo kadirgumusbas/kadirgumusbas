@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Junior Developer from Türkiye</h3>
 <img src="https://github.com/user-attachments/assets/adcbe4b9-b72d-4054-bc8f-13296be30941" alt="Coding" width=200 height=200 align="right">
 
-- 🔭 I’m currently working on **Django and Vue.js**
+- 🔭 Currently working with **Django, Vue.js, Nuxt.js, and Strapi** as a **Full Stack Developer**
  
 - 📫 How to reach me **akadirgumusbas@gmail.com**
 
